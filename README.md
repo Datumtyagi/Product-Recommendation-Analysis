@@ -38,7 +38,7 @@ This project successfully implemented a SQL-based data warehouse and developed p
 - **Python Pipeline**: The Python pipeline for EDA, model building, and deployment can be found [here].
 
 ## Dashboard Snapshot
-![Dashboard Preview](Analysis Dashboard.png)  
+![Dashboard Preview](AnalysisDashboard.png)  
 
 ## Assumptions & Caveats
 ### Assumptions:
