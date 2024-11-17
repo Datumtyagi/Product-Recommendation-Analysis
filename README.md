@@ -7,8 +7,8 @@ This project focuses on enhancing product recommendations and understanding mark
 ## Dataset Structure
 The dataset is organized in a SQL-based data warehouse with multiple tables for customer data, sales records, product information, and regional market data. The primary data sources for this analysis are:
 
-- **Superstore Data**: Purchase history and revenue data.
-- **Superstore Reviews Data**: Ratings, reviews, and summaries provided by customers.
+- **Superstore Data**: Purchase history and revenue data.[[here](https://github.com/Datumtyagi/Product-Recommendation-Analysis/blob/main/data/Superstore-Data.csv)]
+- **Superstore Reviews Data**: Ratings, reviews, and summaries provided by customers.[[here](https://github.com/Datumtyagi/Product-Recommendation-Analysis/blob/main/data/Superstore-Dataset-Reviews.csv)]
 
 The dataset consists of over 10,000 records with 36 columns, including both features and target variables.
 
@@ -33,9 +33,8 @@ This project successfully implemented a SQL-based data warehouse and developed p
 4. **Improve Underperforming Markets**: Conduct research in North Dakota to tailor marketing efforts and boost sales.
 
 ## Resources
-- **SQL Queries**: Targeted SQL queries for business questions can be found [here].
-- **Interactive Dashboard**: View the Tableau dashboard for sales trends [here].
-- **Python Pipeline**: The Python pipeline for EDA, model building, and deployment can be found [here].
+- **SQL Queries**: Targeted SQL queries for business questions can be found [[here]](https://github.com/Datumtyagi/Product-Recommendation-Analysis/blob/main/notebooks/Products-Analysis.sql).
+- **Python Pipeline**: The Python pipeline for EDA, model building, and deployment can be found [[here]](https://github.com/Datumtyagi/Product-Recommendation-Analysis/blob/main/notebooks/Product-Recommendation-Project.ipynb).
 
 ## Dashboard Snapshot
 
